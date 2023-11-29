@@ -1,0 +1,18 @@
+.app-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  #box {
+    cursor: pointer;
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+  }
+  
+  #timer {
+    font-size: 50px;
+    color: green;
+  }
+  
